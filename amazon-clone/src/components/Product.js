@@ -8,7 +8,7 @@ const Product = () => {
 	return (
 		<div className="product">
 			<div className="product__info">
-				<p>Avengers</p>
+				<p>Avengers 2</p>
 				<p className="product__price">
 					<small>$</small>
 					<strong>19.99</strong>
